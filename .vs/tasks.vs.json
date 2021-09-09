@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-de_web_plugin",
+      "appliesTo": "de_web_plugin.cpp",
+      "type": "launch"
+    }
+  ]
+}
