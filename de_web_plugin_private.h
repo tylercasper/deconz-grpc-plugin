@@ -993,6 +993,7 @@ class ApiRequest
 {
 public:
     ApiRequest(const QHttpRequestHeader &h, const QStringList &p, QTcpSocket *s, const QString &c);
+    
     QString apikey() const;
     ApiVersion apiVersion() const { return version; }
 

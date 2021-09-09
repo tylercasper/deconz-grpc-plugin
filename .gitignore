@@ -6,3 +6,4 @@ ui_de_web_widget.h
 .qmake.stash
 tests/build
 *.txt.user
+.vscode/*.log
